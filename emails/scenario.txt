@@ -1,0 +1,10 @@
+Organization: Northstar Technologies
+Scenario: Microsoft 365 account verification phishing simulation
+Sender: security@northstar-support.example
+Claimed Organization Domain: northstar.example
+Sender Domain: northstar-support.example
+Technique: Lookalike domain impersonation
+Recipient: employee@northstar.example
+SOC Contact: soc@northstar.example
+Environment: Local Mailpit
+Authorization: Fictional identities and isolated testing only

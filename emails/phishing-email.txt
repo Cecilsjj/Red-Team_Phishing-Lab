@@ -1,0 +1,17 @@
+From: Northstar IT Support <security@northstar-support.example>
+To: employee@northstar.example
+Subject: Action Required: Account Verification
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hello,
+
+A security review has flagged your Northstar account for verification.
+
+Please visit the following training link to review the account notification:
+
+http://localhost:8080/verify
+
+If you were not expecting this notification, contact the Northstar security team.
+
+Northstar IT Support
